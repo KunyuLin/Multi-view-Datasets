@@ -1,19 +1,23 @@
 # Multi-view-Datasets
-Multi-view datasets for classification or clustering
+	Multi-view datasets for classification or clustering. 
 
 ### Mfeat: image, six views
-	
+	https://archive.ics.uci.edu/ml/datasets/Multiple+Features
 
 ### VIS/NIR: image, two views
+	no url
 
 ### 3Sources: text, three views
-	Notice that not all the objects are descriped in three view (only 169), the preprocessed views is the file as follows.
+	http://mlg.ucd.ie/datasets/3sources.html
+	Notice that not all the objects are descriped in three view (only 169). 
+	The preprocessed views is the file as follows.
 	3sources_global_bbc.txt
 	3sources_global_guardian.txt
 	3sources_global_reuters.txt
 	3sourceLabel.txt (labels)
 
 ### BBC (segment): synthetic text, two, three or four views
+	http://mlg.ucd.ie/datasets/segment.html
 	The preprocessed views are the files as follows. 
 	bbcview1.txt
 	bbcview2.txt
@@ -22,6 +26,7 @@ Multi-view datasets for classification or clustering
 	bbc_label.txt (labels)
 
 ### BBCSport (segment): synthetic text, two, three or four views
+	http://mlg.ucd.ie/datasets/segment.html
 	The preprocessed views are the files as follows. 
 	bbcsportview1.txt
 	bbcsportview2.txt
@@ -30,6 +35,7 @@ Multi-view datasets for classification or clustering
 	bbcsport_label.txt (labels)
 
 ### ReutersEN：text (subset of Multilingual), five views
+	http://lig-membres.imag.fr/grimal/data.html	
 	The preprocessed views are the files as follows. 
 	reuters_sample0_2000_EN.txt
 	reuters_sample0_2000_FR.txt
@@ -39,6 +45,7 @@ Multi-view datasets for classification or clustering
 	reuters_classid.txt (labels)
 
 ### Animals with Attributes：image, six views
+	http://attributes.kyb.tuebingen.mpg.de/
 	A subset of the dataset is given in following files. 
 	AwA_sample_10_100_cq.txt
 	AwA_sample_10_100_lss.txt
@@ -49,6 +56,7 @@ Multi-view datasets for classification or clustering
 	AwA_sample_10_100_classid.txt (labels)
 
 ### NUS-WIDE-OBJECT: image five views
+	http://lms.comp.nus.edu.sg/research/NUS-WIDE.htm
 	A subset of the dataset is given in the folder 'low level features_some5' and the name of files are as follows.
 	NWO_CH_test.txt
 	NWO_CM55_test.txt
@@ -58,6 +66,7 @@ Multi-view datasets for classification or clustering
 	NWO_test_classid.txt (labels)
 
 ### WebKB: text, two views
+	http://lig-membres.imag.fr/grimal/data.html	
 	The preprocessed views of Texas are the files in folder 'webKB_texas'. 
 
 ### Movies dataset: text, two views
@@ -82,3 +91,4 @@ Multi-view datasets for classification or clustering
 	content_act.txt (labels)
 
 ### Multi-view Twitter 
+	http://mlg.ucd.ie/aggregation/index.html
